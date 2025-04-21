@@ -1,5 +1,5 @@
 # TRIADE-PHONE 
-***Votre compagnon pour la vie de tous les jours avec TRIADE***
+***Votre compagnon de poche du logiciel TRIADE, conçu pour la vie de tous les jours***
 
 ![Prez 1@0 5x](https://github.com/user-attachments/assets/c74d0167-50aa-4146-b254-1a7de0e542ae)![Prez 2@0 5x](https://github.com/user-attachments/assets/2fc50772-a015-4033-b612-8d371e3efb94)
 
