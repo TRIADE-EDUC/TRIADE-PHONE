@@ -14,7 +14,7 @@ Les données affichées dans l'application proviennent du logiciel de gestion sc
 ### 5. Responsabilité
 TRIADE-PHONE et ses développeurs ne sauraient être tenus responsables des erreurs, omissions, retards de mise à jour ou de toute décision prise sur la base des informations affichées dans l'application. L'utilisateur reconnaît utiliser cette application à ses propres risques.
 
-### 6. Sécurité et confidentialité
+### 6. Sécurité
 L'utilisateur est responsable de la confidentialité de ses identifiants et de la sécurité de son appareil. TRIADE-PHONE met en œuvre des mesures de protection des données, mais décline toute responsabilité en cas d’accès non autorisé, de perte ou d’utilisation frauduleuse des données personnelles.
 
 ### 7. Disponibilité du service
@@ -25,10 +25,13 @@ L'application TRIADE-PHONE, ainsi que son contenu (textes, images, logos, interf
 
 Le désassemblage, le décompilage et l'analyse approfondie du programme est prévu par l'article L 122-6-1 du code de la propriété intellectuelle. La contrefaçon de l'application est strictement interdite par quelconque moyen (notamment les moyens cités ci-avant).
 
-### 9. Modifications des CGU
+### 9. Vie privée
+La politique de confidentialité de cette application peut être trouvée à cette adresse : https://github.com/TRIADE-EDUC/TRIADE-PHONE/blob/main/PRIVACY.md
+
+### 10. Modifications des CGU
 Ces conditions générales peuvent être mises à jour à tout moment. Nous recommandons aux utilisateurs de consulter régulièrement cette section pour prendre connaissance des éventuelles modifications.
 
-### 10. Contact
+### 11. Contact
 Pour toute question ou réclamation concernant TRIADE-PHONE, veuillez contacter l'équipe support via l'adresse mail suivante : support[arobase]triade-educ.org.
 
 ***En utilisant l'application TRIADE-PHONE, l'utilisateur reconnaît avoir lu, compris et accepté ces Conditions Générales d'Utilisation.***
